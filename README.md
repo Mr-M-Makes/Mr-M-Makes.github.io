@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+**## Welcome to Room 2425 with your host Mr. M 
+In this room we will be learning Programming 2, AP CSP, and Physical Science
 
-You can use the [editor on GitHub](https://github.com/Mr-M-Makes/Mr-M-Makes.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Programming 2 
+We will be learning using the standards created by [Arkansas Department of Education](https://docs.google.com/document/d/1_kqCvBGFxfmCbw5t2U7WLIzFAfhYt7-f3H3DFKTewQQ/edit?usp=sharing) 
 
 ### Markdown
 
