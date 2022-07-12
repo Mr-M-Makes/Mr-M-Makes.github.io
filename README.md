@@ -1,4 +1,4 @@
-**# Welcome to Room 2425 with your host Mr. M**
+# Welcome to Room 2425 with your host Mr. M
 
 In this room we will be learning Programming 2, AP CSP, and Physical Science
 
