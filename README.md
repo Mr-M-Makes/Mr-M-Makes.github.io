@@ -3,11 +3,18 @@ In this room we will be learning Programming 2, AP CSP, and Physical Science
 
 ### Programming 2 
 We will be learning using the standards created by [Arkansas Department of Education](https://docs.google.com/document/d/1_kqCvBGFxfmCbw5t2U7WLIzFAfhYt7-f3H3DFKTewQQ/edit?usp=sharing) 
-- We have a *_Textbook_*
+- We have a *_"Textbook"_* found [Here](https://docs.google.com/presentation/d/1NwwAslqj6jwHXiazIy-RDDhlVP950r24G3t53ML63x8/edit?usp=sharing) for reference for reference as needed.
+
 - We will be using
     - Python
     - C/C++
-    
+    - Pygame
+    - Tkinter
+    - Anvil Python Webapps
+    - Arduino 
+    - Esp 8266/32
+    - Rapsberry Pi
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
