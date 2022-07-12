@@ -6,7 +6,7 @@ In this room we will be learning Programming 2, AP CSP, and Physical Science
 We will be learning using the standards created by [Arkansas Department of Education](https://docs.google.com/document/d/1_kqCvBGFxfmCbw5t2U7WLIzFAfhYt7-f3H3DFKTewQQ/edit?usp=sharing) 
 - We have a *_"Textbook"_* found [Here](https://docs.google.com/presentation/d/1NwwAslqj6jwHXiazIy-RDDhlVP950r24G3t53ML63x8/edit?usp=sharing) for reference for reference as needed.
 
-- We will be using
+- We will be using a combination of the following as needed
     - Python
     - C/C++
     - Pygame
@@ -15,8 +15,17 @@ We will be learning using the standards created by [Arkansas Department of Educa
     - Arduino 
     - Esp 8266/32
     - Rapsberry Pi
+    - Github and Github Pages
 
-### Markdown
+### AP CSP
+
+
+### Physical Science
+
+### Lol--- What are you doing here? Everything for us will be on Schoology
+
+
+## Reference for Github Pages : Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -40,9 +49,6 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mr-M-Makes/Mr-M-Makes.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
